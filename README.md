@@ -27,7 +27,7 @@
 - **Expected Graduation:** September 2025
 
 ## 💼 Projects
-### [Jarvis AI Helpdesk Plugin (Graduation Project)]
+### Jarvis AI Helpdesk Plugin (Graduation Project)
 - **Description:** AI solution for traditional helpdesk software with automated responses and sentiment analysis.
 - **Role:** Fullstack Developer
 - **Tech Stack:** NestJS, ReactJS, Microservices, React Query, Radix UI, TailwindCSS, TypeORM, Postgres, Prompt Engineering
