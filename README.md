@@ -1,6 +1,5 @@
-# Nguyen Tan Khiem
+# Nguyen Tan Khiem - Software Engineer
 
-**Software Engineer**  
 [LinkedIn](https://www.linkedin.com/in/ntkhiem081203/)
 
 ## 📞 Contact
@@ -25,35 +24,6 @@
   - Introduction to Databases (8.6)  
   - Software Testing (8.5)  
 - **Expected Graduation:** September 2025
-
-## 💼 Projects
-### Jarvis AI Helpdesk Plugin (Graduation Project)
-- **Description:** AI solution for traditional helpdesk software with automated responses and sentiment analysis.
-- **Role:** Fullstack Developer
-- **Tech Stack:** NestJS, ReactJS, Microservices, React Query, Radix UI, TailwindCSS, TypeORM, Postgres, Prompt Engineering
-
-### [KandM Clothes](https://github.com/khiemnguyen812/KandM-Clothes)
-- **Description:** E-commerce website with customer and admin portals. Later upgraded to RESTful API with ReactJS frontend.
-- **Main Features:** Admin login, Cart, Checkout (email integration), Subscription, CRUD operations
-- **Tech Stack:** ASP.Net MVC, Entity Framework, SQL Server, Razor, ReactJS, JQuery, Bootstrap, Ajax
-
-### [Advertising Management System](https://github.com/ThienNhan2k3/DynamicWeb-Server)
-- **Description:** Web app for managing advertising boards in HCM City
-- **Role:** Developer for the Department's staff subsystem
-- **Tech Stack:** ExpressJS, MySQL, EJS, MapBox, Bootstrap, MVC Design Pattern
-
-### [Book Manager](https://github.com/ntdai21/BookManager/tree/master)
-- **Description:** Windows application for book warehouse management and sales
-- **Role:** Developed order management and statistics features
-- **Tech Stack:** WPF, .NET, Entity Framework, Firebase, SQL Server, 3-Layer Design Pattern
-
-## 🛠️ Skills
-- **Languages:** C#, Python, C++, Java, JavaScript, TypeScript
-- **Backend:** .NET, ASP.NET Core, Entity Framework, ExpressJS, NestJS, SQL Server, PostgreSQL, Firebase, JWT, gRPC
-- **Frontend:** ReactJS, Ajax, jQuery, WPF, Razor
-- **Tools:** Postman, Arduino
-- **Testing:** Cypress, JMeter
-- **Security:** Burp Suite
 
 ## 📜 Certifications
 - **IELTS Academic:** Band 6.0
