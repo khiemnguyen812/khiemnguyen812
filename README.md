@@ -16,13 +16,6 @@
 **University of Science, VNUHCM**  
 - BSc in Information Technology, Major in Software Engineering  
 - **GPA:** 8.2/10  
-- **Top Courses:**  
-  - Web Applications Development (9.8)  
-  - Object-Oriented Programming (9.1)  
-  - Computer Security (9.9)  
-  - Windows Programming (9.2)  
-  - Introduction to Databases (8.6)  
-  - Software Testing (8.5)  
 - **Expected Graduation:** September 2025
 
 ## 📜 Certifications
