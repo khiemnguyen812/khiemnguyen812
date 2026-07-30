@@ -8,45 +8,6 @@ Currently, I'm working as a **Business Central ERP Support Specialist** at **Atl
 
 Previously, I worked at **FPT Software** as a **Business Central Developer & Functional Consultant**, participating in end-to-end ERP implementation projects for global clients.
 
-## 🚀 Tech Stack
-
-### ERP
-- Microsoft Dynamics 365 Business Central
-- AL Language
-- Power Automate
-
-### Backend
-- C#
-- ASP.NET Core
-- .NET
-- NestJS
-- ExpressJS
-- gRPC
-
-### Frontend
-- React
-- Razor Pages
-- WPF
-
-### Database
-- SQL Server
-- PostgreSQL
-- MySQL
-- Firebase
-
-### Architecture & Tools
-- Clean Architecture
-- CQRS
-- SOLID Principles
-- Repository Pattern
-- Unit of Work
-- Entity Framework Core
-- TypeORM
-- Postman
-- Cypress
-- JMeter
-- Burp Suite
-
 ## 💼 Experience
 
 ### Atlas International Vietnam
@@ -61,32 +22,6 @@ Previously, I worked at **FPT Software** as a **Business Central Developer & Fun
 - Delivered Microsoft Dynamics 365 Business Central implementation projects.
 - Developed AL customizations and translated business requirements into technical solutions.
 - Supported UAT, Go-Live, issue resolution, and data migration.
-
-## ⭐ Featured Projects
-
-### Jarvis AI Helpdesk
-AI-powered helpdesk platform for Zendesk, Pancake, and Zoho Desk.
-
-**Tech Stack**
-- NestJS
-- React
-- Microservices
-- PostgreSQL
-- TypeORM
-- Tailwind CSS
-- React Query
-- Prompt Engineering
-
-### E-Learning Platform
-Learning Management System built with ASP.NET Core following Clean Architecture.
-
-**Tech Stack**
-- ASP.NET Core
-- Entity Framework Core
-- SQL Server
-- JWT
-- AutoMapper
-- FluentValidation
 
 ## 📚 Education
 
