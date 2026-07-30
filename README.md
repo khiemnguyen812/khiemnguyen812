@@ -1,4 +1,4 @@
-# Hi there, I'm Khiem Nguyen (Ryan) 👋
+# Hi there, I'm Khiem Nguyen (Ryan) 
 
 **Business Central Developer | ERP Support Engineer | Full-Stack Developer**
 
